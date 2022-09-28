@@ -34,10 +34,12 @@
   <ItemGroup>
     <Reference Include="0Harmony">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\0Harmony.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="GameData">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\Backend\GameData.dll</HintPath>
       <Aliases>gd</Aliases>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,15 +51,19 @@
     <Reference Include="System.Xml" />
     <Reference Include="TaiwuModdingLib">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\The Scroll of Taiwu_Data\Managed\TaiwuModdingLib.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Taiwu_EventPackage_CharacterInteraction_Interact">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\Event\EventLib\Taiwu_EventPackage_CharacterInteraction_Interact.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Taiwu_EventPackage_CharacterInteraction_Main">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\Event\EventLib\Taiwu_EventPackage_CharacterInteraction_Main.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Taiwu_EventPackage_CharacterInteraction_Relate">
       <HintPath>G:\STEAM\steamapps\common\The Scroll Of Taiwu\Event\EventLib\Taiwu_EventPackage_CharacterInteraction_Relate.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
